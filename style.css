@@ -1,0 +1,33 @@
+
+h1 {
+    color: gold;
+    text-align: center;
+}
+p,h2 {
+    color: rgb(214, 181, 96);
+    text-align: center;
+}
+* {
+    border: solid;
+}
+.header {
+    background-color: sandybrown;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+    display: flex;
+}
+.footer{
+    display: flex;
+    justify-content: end;
+}
+.sitedescription{
+    display: flex;
+    justify-content: space-evenly;
+}
